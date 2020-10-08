@@ -1,0 +1,1 @@
+dependencies: aws-sdk/ nanoid/ moment
